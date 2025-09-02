@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Threat Intelligence**
 
-- 👯 I’m looking to collaborate on **Security tooling and Research**
+- 👯 I’m looking to collaborate on **Security tooling and research**
 
 - 📫 How to reach me **hcole.secure@proton.me**
 
