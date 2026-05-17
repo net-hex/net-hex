@@ -51,4 +51,4 @@ Here are some of my highlighted projects:
 ## 📊 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=net-hex&show_icons=true&theme=radical)
