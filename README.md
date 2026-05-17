@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Hudson Cole
 
 I'm a cybersecurity researcher and developer focused on understanding how systems break, how attackers think, and how to build stronger defenses.
 
