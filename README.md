@@ -4,7 +4,7 @@
 
 I'm a cybersecurity researcher and developer focused on understanding how systems break, how attackers think, and how to build stronger defenses.
 
----
+
 
 ## 🧠 About Me
 
@@ -12,7 +12,7 @@ I'm a cybersecurity researcher and developer focused on understanding how system
 - 🔐 Focused on penetration testing, web application security, and defensive security
 - 🧩 Interested in reverse engineering, threat intellignece, red team operations and low-level systems
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ I'm a cybersecurity researcher and developer focused on understanding how system
 - Wireshark
 - Metasploit
 
----
+
 
 ## 📌 Current Focus
 
@@ -38,7 +38,7 @@ I'm a cybersecurity researcher and developer focused on understanding how system
 - Writing clearer, more professional security reports
 - Participating in CTFs and labs
 
----
+
 
 ## 🚀 Projects
 
@@ -46,9 +46,4 @@ Here are some of my highlighted projects:
 
 - 🧪 **CTF Writeups Repository**  
   Notes, exploits, and walkthroughs from cybersecurity challenges.
----
 
-## 📊 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=net-hex&show_icons=true&theme=radical)
